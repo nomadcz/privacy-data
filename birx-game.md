@@ -5,9 +5,9 @@ permalink: /birx-game/
 
 # Privacy Policy
 
-**B.I.R.X. — Reclaim the Memories**
-**Developer:** nomadcz
-**Privacy contact:** nomad@centrum.cz
+**B.I.R.X. — Reclaim the Memories**<br>
+**Developer:** nomadcz<br>
+**Privacy contact:** nomad@centrum.cz<br>
 **Effective date:** 5 November 2026
 
 This policy applies to the game **B.I.R.X.** distributed on Google Play and Steam.
