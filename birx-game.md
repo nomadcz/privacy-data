@@ -5,7 +5,7 @@ permalink: /birx-game/
 
 # Privacy Policy
 
-**B.I.R.X. — Reclaim the Memories**<br>
+**B.I.R.X.: Reclaim the Memories**<br>
 **Developer:** nomadcz<br>
 **Privacy contact:** nomad@centrum.cz<br>
 **Effective date:** 5 November 2026
