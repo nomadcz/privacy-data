@@ -1,16 +1,13 @@
-<!--
-DRAFT for GitHub Pages. Before publishing:
-1. Replace [privacy contact email] with a working address (both places below).
-2. If your Google Play listing shows a legal name or company, add it after "nomadcz"
-   (for example: "nomadcz (operated by Jane Doe)").
-3. Keep the title "Privacy Policy".
--->
+---
+title: Privacy Policy
+permalink: /birx-game/
+---
 
 # Privacy Policy
 
-**B.I.R.X. — Reclaim the Memories**  
-**Developer:** nomadcz  
-**Privacy contact:** [privacy contact email]  
+**B.I.R.X. — Reclaim the Memories**
+**Developer:** nomadcz
+**Privacy contact:** nomad@centrum.cz
 **Effective date:** 5 November 2026
 
 This policy applies to the game **B.I.R.X.** distributed on Google Play and Steam.
@@ -82,6 +79,6 @@ are released. The effective date at the top will change.
 
 Questions about this policy or the game's data practices:
 
-**[privacy contact email]**
+**nomad@centrum.cz**
 
 You can also use the support contact shown on the game's Google Play or Steam listing.
